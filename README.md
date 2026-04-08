@@ -1,7 +1,7 @@
 ![JavSP](./image/JavSP.svg)
 
 
-食用:
+食用:<br>
 <code>
 .\.venv\Scripts\python -m javsp
 </code>
