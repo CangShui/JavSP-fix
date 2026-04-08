@@ -2,9 +2,9 @@
 
 
 食用:<br>
-<code>
+<code><pre>
 .\.venv\Scripts\python -m javsp
-</code>
+</code></pre>
 
 # JavSP fix 由CodeX强力驱动
 
