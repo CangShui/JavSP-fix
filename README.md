@@ -1,5 +1,11 @@
 ![JavSP](./image/JavSP.svg)
 
+
+食用:
+、、、
+.\.venv\Scripts\python -m javsp
+、、、
+
 # JavSP fix 由CodeX强力驱动
 
 **汇总多站点数据的AV元数据刮削器**
